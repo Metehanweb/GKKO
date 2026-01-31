@@ -1,2 +1,2 @@
 # GKKO
-Yapay zeka destekli ürün kontrol otomasyonu
+Yapay zeka destekli ürün kontrol otomasyonu - Colab
